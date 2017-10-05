@@ -4,3 +4,9 @@ E:\Study Library\Application Design\Design Patterns\FoodDeliveryApp\bin\Debug\Fo
 E:\Study Library\Application Design\Design Patterns\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csprojResolveAssemblyReference.cache
 E:\Study Library\Application Design\Design Patterns\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.exe
 E:\Study Library\Application Design\Design Patterns\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.pdb
+C:\DesignPatternsApps\FoodDeliveryApp\bin\Debug\FoodDeliveryApp.exe.config
+C:\DesignPatternsApps\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.exe
+C:\DesignPatternsApps\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.pdb
+C:\DesignPatternsApps\FoodDeliveryApp\bin\Debug\FoodDeliveryApp.exe
+C:\DesignPatternsApps\FoodDeliveryApp\bin\Debug\FoodDeliveryApp.pdb
+C:\DesignPatternsApps\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csprojResolveAssemblyReference.cache
